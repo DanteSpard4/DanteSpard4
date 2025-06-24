@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! Here you'll find my projects and contributions in the world of backend development.
 
 ## 🚀 About Me
-I'm a backend developer specialized in Java with Spring Boot, with over 1 year of experience building robust and efficient solutions. Passionate about technology, continuous learning, and collaboration within the developer community.
+I'm a backend developer specialized in Java with Spring Boot, with over 2 years of experience building robust and efficient solutions. Passionate about technology, continuous learning, and collaboration within the developer community.
 
 ## 🛠️ Top Skills
 - **Languages:** Java
