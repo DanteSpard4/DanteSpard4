@@ -10,7 +10,7 @@ I'm a backend developer specialized in Java with Spring Boot, with over 1 year o
 ## 🛠️ Top Skills
 - **Languages:** Java
 - **Frameworks:** Spring Boot
-- **Experience:** 1+ year developing backend applications, REST APIs, and scalable solutions
+- **Experience:** 2+ year developing backend applications, REST APIs, and scalable solutions
 
 ## 📈 GitHub Stats
 ![DanteSpard4's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanteSpard4&show_icons=true&theme=github_dark)
